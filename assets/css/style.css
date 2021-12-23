@@ -1,0 +1,29 @@
+body{
+    background-image: url(../images/concrete_seamless.png);
+    font-size: 19px;
+    color: #777;
+    height: 100vh;
+  
+}
+nav{
+    font-family: Georgia, Times, "Times New Roman", serif;
+}
+h2,.nav-link{
+    color: #4aaaa5;
+
+}
+.navbar-brand, .btn{
+    background-color: #4aaaa5 ;
+}
+/*Portfolio */
+ h3{
+    background-color:#4aaaa5;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: absolute;
+    bottom: 20px;
+    width: 100%;
+    overflow: auto;
+    
+}
